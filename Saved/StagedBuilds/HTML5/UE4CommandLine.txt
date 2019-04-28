@@ -1,0 +1,1 @@
+../../../unrealapp/unrealapp.uproject  /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap -Messaging -SessionId=71154E0948961C62C46BB79B82149AB8 -SessionOwner="Mihkel" -SessionName="Launch On Device" -iterative
